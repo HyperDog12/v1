@@ -1,3 +1,4 @@
+/*
 function iniFrame() {
   if (window.self !== window.top) {
   } else {
@@ -5,3 +6,4 @@ function iniFrame() {
   }
 }
 iniFrame();
+*/
