@@ -17,3 +17,12 @@ a:active {
 p {
   color: black;
 }
+li {
+  color: black;
+}
+ul {
+  list-style: none;
+}
+ol {
+  list-style: none;
+}
